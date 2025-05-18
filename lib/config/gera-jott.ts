@@ -11,7 +11,7 @@ import {
 } from "lucide-react";
 import { routes } from "./routes";
 
-const route = routes.Gera;
+const route = routes.GeraJOTT;
 
 export const geraConfig = {
   name: "Gera Joy on Tree Tops",

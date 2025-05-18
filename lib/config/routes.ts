@@ -1,4 +1,4 @@
 export const routes = {
   default: "/",
-  Gera: "Gera",
+  GeraJOTT: "Gera-JOTT",
 };

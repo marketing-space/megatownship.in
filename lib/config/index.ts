@@ -1,10 +1,10 @@
-import { geraConfig } from "@/lib/config/garden-city";
+import { geraConfig } from "@/lib/config/gera-jott";
 import { routes } from "./routes";
 import { siteConfig } from "./site";
 
 const configs = {
   [routes.default]: siteConfig,
-  [routes.Gera]: geraConfig,
+  [routes.GeraJOTT]: geraConfig,
 };
 
 export function getSiteConfig(site?: string) {
