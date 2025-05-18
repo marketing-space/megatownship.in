@@ -439,7 +439,7 @@ export const geraConfig = {
       description: "Schedule at your convenience",
     },
     image: {
-      src: "/gera/images/b1.webp",
+      src: "/gera/images/B1.webp",
       alt: "Virtual Tour",
     },
     videoTitle: "Virtual Tour",
