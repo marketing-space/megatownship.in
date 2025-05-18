@@ -78,15 +78,15 @@ export const geraConfig = {
   hero: {
     banners: [
       {
-        src: "/gera/images/b1.webp",
+        src: "/gera/images/B1.jpg",
         alt: "Gera Joy on Tree Tops",
       },
       {
-        src: "/gera/images/b2.webp",
+        src: "/gera/images/B2.jpg",
         alt: "Gera Joy on Tree Tops",
       },
       {
-        src: "/gera/images/b3.webp",
+        src: "/gera/images/B3.jpg",
         alt: "Gera Joy on Tree Tops"  ,
       },
     ],
@@ -549,7 +549,7 @@ export const geraConfig = {
       "Experience luxury living at Gera Joy on Tree Tops, Thane. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
-      "thane west",
+      "Pune",
       "Gera Joy on Tree Tops",
       "2 bhk",
       "3 bhk",

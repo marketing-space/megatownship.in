@@ -2,14 +2,14 @@ import { getSiteConfig } from "@/lib/config";
 import { routes } from "@/lib/config/routes";
 import { Metadata } from "next";
 
-const route = routes.Gardencity;
+const route = routes.GeraJOTT;
 
 export const metadata: Metadata = {
-  title: getSiteConfig(route).privacyPolicy.seo.title,
-  description: getSiteConfig(route).privacyPolicy.seo.description,
+  title: getSiteConfig(route).termsAndConditions.seo.title,
+  description: getSiteConfig(route).termsAndConditions.seo.description,
 };
 
-export default function PrivacyPolicyLayout({
+export default function TermsConditionsLayout({
   children,
 }: {
   children: React.ReactNode;
