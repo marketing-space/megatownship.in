@@ -211,7 +211,7 @@ export const geraKharadiConfig = {
         masterPlan: {
             title: "Master Plan",
             image: {
-                src: "/geraKharadi/images/mp.webp",
+                src: "/gerakharadi/images/mp.webp",
                 alt: "Master Plan",
             },
             cta: {
