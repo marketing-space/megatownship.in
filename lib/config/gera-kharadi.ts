@@ -70,7 +70,7 @@ export const geraKharadiConfig = {
     },
 
     branding: {
-        logo: "/geraKharadi/images/logo.png",
+        logo: "/gerakharadi/images/logo.png",
         favicon: "/icon.png",
         ogImage: "/og-image.jpg",
     },
@@ -78,15 +78,15 @@ export const geraKharadiConfig = {
     hero: {
         banners: [
             {
-                src: "/geraKharadi/images/b1.webp",
+                src: "/gerakharadi/images/b1.webp",
                 alt: "Gera Island Of Joy",
             },
             {
-                src: "/geraKharadi/images/b3.webp",
+                src: "/gerakharadi/images/b3.webp",
                 alt: "Gera Island Of Joy",
             },
             {
-                src: "/geraKharadi/images/b4.webp",
+                src: "/gerakharadi/images/b4.webp",
                 alt: "Gera Island Of Joy",
             },
         ],
@@ -96,7 +96,7 @@ export const geraKharadiConfig = {
                 description:
                     "Download the brochure to learn more about Gera Island Of Joy.",
             },
-            title: "Welcome to Gera JoTT",
+            title: "Welcome to Gera Island Of Joy",
             description: `Gera Developments proudly unveils Island of Joy at East Kharadi^ — a landmark addition to our signature ChildCentric® Homes portfolio.
             Spread across 12.5 acres, this exceptional development boasts over 4 acres of landscaped open spaces and three exclusive clubhouses covering more than 40,000 square feet.
 
@@ -385,7 +385,7 @@ export const geraKharadiConfig = {
         googleMapIframe: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.2678355667866!2d73.97132601436873!3d18.54297428739669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3a8886b09bd%3A0xa5958211d3cbe30!2sGera's%20Island%20of%20Joy!5e0!3m2!1sen!2sin!4v1716043428239!5m2!1sen!2sin",
 
         image: {
-            src: "/gera/images/map.webp",
+            src: "/gerakharadi/images/map.webp",
             alt: "Location Map",
         },
         landmarks: [
