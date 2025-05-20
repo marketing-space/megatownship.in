@@ -546,7 +546,7 @@ export const geraConfig = {
   seo: {
     title: "Gera Joy on Tree Tops | Luxury Apartments in Pune",
     description:
-      "Experience luxury living at Gera Joy on Tree Tops, Thane. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Gera Joy on Tree Tops, Pune. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
       "Pune",
