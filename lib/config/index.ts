@@ -10,6 +10,7 @@ const configs = {
 };
 
 export function getSiteConfig(site?: string) {
+  
   return site
     ? configs[site as keyof typeof configs] || configs[routes.default]
     : configs[routes.default];

@@ -14,8 +14,8 @@ export default function SiteTemplate({
   children: React.ReactNode;
 }) {
   const pathname = usePathname();
+  
   const site = pathname.split("/")[1];
-  console.log(site);
   return (
     <SiteProvider site={site}>
       <ModalProvider />

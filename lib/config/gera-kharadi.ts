@@ -463,7 +463,7 @@ export const geraKharadiConfig = {
         title: "Get The Best Quote",
         bookFreeVisit: {
             image: {
-                src: "/gera/images/ride.png",
+                src: "/gerakheradi/images/ride.png",
                 alt: "Book a Site Visit",
             },
             cta: {
