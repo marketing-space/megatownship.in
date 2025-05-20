@@ -70,7 +70,7 @@ export const geraConfig = {
   },
 
   branding: {
-    logo: "/gera/images/logo.png",
+    logo: "/gerajott/images/logo.png",
     favicon: "/icon.png",
     ogImage: "/og-image.jpg",
   },
@@ -78,15 +78,15 @@ export const geraConfig = {
   hero: {
     banners: [
       {
-        src: "/gera/images/B1.jpg",
+        src: "/gerajott/images/B1.jpg",
         alt: "Gera Joy on Tree Tops",
       },
       {
-        src: "/gera/images/B2.jpg",
+        src: "/gerajott/images/B2.jpg",
         alt: "Gera Joy on Tree Tops",
       },
       {
-        src: "/gera/images/B3.jpg",
+        src: "/gerajott/images/B3.jpg",
         alt: "Gera Joy on Tree Tops"  ,
       },
     ],
@@ -184,7 +184,7 @@ export const geraConfig = {
     },
     detailPricing: {
       image: {
-        src: "/gera/images/costing.webp",
+        src: "/gerajott/images/costing.webp",
         alt: "Gera Joy on Tree Tops",
       },
       title: "Need Complete Costing Details?",
@@ -204,7 +204,7 @@ export const geraConfig = {
     masterPlan: {
       title: "Master Plan",
       image: {
-        src: "/gera/images/gera-jott-master-layout.webp",
+        src: "/gerajott/images/gera-jott-master-layout.webp",
         alt: "Master Plan",
       },
       cta: {
@@ -218,47 +218,47 @@ export const geraConfig = {
       plans: [
         {
           type: "2 BHK-787 Sq.ft.",
-          image: "/gera/images/2-BHK-DUPLEX-01.jpg",
+          image: "/gerajott/images/2-BHK-DUPLEX-01.jpg",
           category: "2 BHK",
         },
         {
           type: "2 BHK-695 Sq.ft.",
-          image: "/gera/images/2-BHK-GRAND-TYPE-1-01.jpg",
+          image: "/gerajott/images/2-BHK-GRAND-TYPE-1-01.jpg",
           category: "2 BHK",
         },
         {
           type: "2 BHK-732 Sq.ft.",
-          image: "/gera/images/2-BHK-GRAND-TYPE-2-01.jpg",
+          image: "/gerajott/images/2-BHK-GRAND-TYPE-2-01.jpg",
           category: "2 BHK",
         },
         {
           type: "2 BHK-787 Sq.ft.",
-          image: "/gera/images/2-BHK-ROYAL-TYPE-1.jpg",
+          image: "/gerajott/images/2-BHK-ROYAL-TYPE-1.jpg",
           category: "2 BHK",
         },
         {
           type: "2 BHK-800 Sq.ft.",
-          image: "/gera/images/2-BHK-ROYAL-TYPE-2.jpg",
+          image: "/gerajott/images/2-BHK-ROYAL-TYPE-2.jpg",
           category: "2 BHK",
         },
         {
           type: "3 BHK-952 Sq.ft.",
-          image: "/gera/images/3-BHK-GRAND-TYPE-1-01.jpg",
+          image: "/gerajott/images/3-BHK-GRAND-TYPE-1-01.jpg",
           category: "3 BHK",
         },
         {
           type: "3 BHK-980 Sq.ft.",
-          image: "/gera/images/3-BHK-GRAND-TYPE-2-01.jpg",
+          image: "/gerajott/images/3-BHK-GRAND-TYPE-2-01.jpg",
           category: "3 BHK",
         },
         {
           type: "3 BHK-1101 Sq.ft.",
-          image: "/gera/images/3-BHK-ROYAL-TYPE-1.jpg",
+          image: "/gerajott/images/3-BHK-ROYAL-TYPE-1.jpg",
           category: "3 BHK",
         },
         {
           type: "3 BHK-1123 Sq.ft.",
-          image: "/gera/images/3-BHK-ROYAL-TYPE-2.jpg",
+          image: "/gerajott/images/3-BHK-ROYAL-TYPE-2.jpg",
           category: "3 BHK",
         },
       ],
@@ -280,62 +280,62 @@ export const geraConfig = {
     amenities: [
       {
         title: "Training Room",
-        image: "/gera/images/amenities/Training-Room_.jpg",
+        image: "/gerajott/images/amenities/Training-Room_.jpg",
         description: "",
       },
       {
         title: "Dance Room",
-        image: "/gera/images/amenities/Dance-Room_.jpg",
+        image: "/gerajott/images/amenities/Dance-Room_.jpg",
         description: "",
       },
       {
         title: "Creche",
-        image: "/gera/images/amenities/Creche_.jpg",
+        image: "/gerajott/images/amenities/Creche_.jpg",
         description: "",
       },
       {
         title: "Reflexology Path with Seating",
-        image: "/gera/images/amenities/Reflexology-Path-with-Seating_.jpg",
+        image: "/gerajott/images/amenities/Reflexology-Path-with-Seating_.jpg",
         description: "",
       },
       {
         title: "Toddlers' Play Area",
-        image: "/gera/images/amenities/Toddlers-Play-Area_.jpg",
+        image: "/gerajott/images/amenities/Toddlers-Play-Area_.jpg",
         description: "",
       },
       {
         title: "Futsal Court",
-        image: "/gera/images/amenities/Futsal-Court_.jpg",
+        image: "/gerajott/images/amenities/Futsal-Court_.jpg",
         description: "",
       },
       {
         title: "Art Room",
-        image: "/gera/images/amenities/Art-Room_.jpg",
+        image: "/gerajott/images/amenities/Art-Room_.jpg",
         description: "",
       },
       {
         title: "Library",
-        image: "/gera/images/amenities/library.png",
+        image: "/gerajott/images/amenities/library.png",
         description: "",
       },
       {
         title: "Floral Garden",
-        image: "/gera/images/amenities/floralgardens_01.webp",
+        image: "/gerajott/images/amenities/floralgardens_01.webp",
         description: "",
       },
       {
         title: "Gym",
-        image: "/gera/images/amenities/gym_01.webp",
+        image: "/gerajott/images/amenities/gym_01.webp",
         description: "",
       },
       {
         title: "Jogging Track",
-        image: "/gera/images/amenities/joggingpath_1.webp",
+        image: "/gerajott/images/amenities/joggingpath_1.webp",
         description: "",
       },
       {
         title: "Party Lawn",
-        image: "/gera/images/amenities/partylawn_1.webp",
+        image: "/gerajott/images/amenities/partylawn_1.webp",
         description: "",
       },
     ],
@@ -356,32 +356,32 @@ export const geraConfig = {
     images: [
       {
         title: "",
-        image: "/gera/images/gallery/Gallery1.webp",
+        image: "/gerajott/images/gallery/Gallery1.webp",
         description: "Elegantly designed living spaces with premium finishes",
       },
       {
         title: "",
-        image: "/gera/images/gallery/Gallery2.webp",
+        image: "/gerajott/images/gallery/Gallery2.webp",
         description: "Breathtaking views of landscaped gardens",
       },
       {
         title: "",
-        image: "/gera/images/gallery/Gallery3.webp",
+        image: "/gerajott/images/gallery/Gallery3.webp",
         description: "Resort-style pool with premium amenities",
       },
       {
         title: "",
-        image: "/gera/images/gallery/Gallery4.webp",
+        image: "/gerajott/images/gallery/Gallery4.webp",
         description: "Spacious bedrooms with modern aesthetics",
       },
       {
         title: "",
-        image: "/gera/images/gallery/Gallery5.webp",
+        image: "/gerajott/images/gallery/Gallery5.webp",
         description: "Spacious bedrooms with modern aesthetics",
       },
       {
         title: "",
-        image: "/gera/images/gallery/Gallery6.webp",
+        image: "/gerajott/images/gallery/Gallery6.webp",
         description: "Spacious bedrooms with modern aesthetics",
       },
     ],
@@ -393,7 +393,7 @@ export const geraConfig = {
     googleMapIframe: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60510.99334871803!2d73.684691!3d18.576875!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bbdbb12c8f37:0xa42a762628a5ffec!2sGera\'s Joy on the Treetops, Hinjawadi Phase III!5e0!3m2!1sen!2sus!4v1747386024005!5m2!1sen!2sus",
 
     image: {
-      src: "/gera/images/map.webp",
+      src: "/gerajott/images/map.webp",
       alt: "Location Map",
     },
     landmarks: [
@@ -439,7 +439,7 @@ export const geraConfig = {
       description: "Schedule at your convenience",
     },
     image: {
-      src: "/gera/images/B1.webp",
+      src: "/gerajott/images/B1.webp",
       alt: "Virtual Tour",
     },
     videoTitle: "Virtual Tour",
@@ -471,7 +471,7 @@ export const geraConfig = {
     title: "Get The Best Quote",
     bookFreeVisit: {
       image: {
-        src: "/gera/images/ride.png",
+        src: "/gerajott/images/ride.png",
         alt: "Book a Site Visit",
       },
       cta: {
@@ -513,7 +513,7 @@ export const geraConfig = {
         {
           title: "Gera Joy on Tree Tops",
           reraNumber: "Project Maha RERA - P52100054608",
-          qrCode: "/gera/images/barcode-1.jpeg",
+          qrCode: "/gerajott/images/barcode-1.jpeg",
         },
       ],
     },

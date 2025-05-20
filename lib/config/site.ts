@@ -525,7 +525,7 @@ export const siteConfig = {
   },
 
   seo: {
-    title: "Gera Joy on Tree Tops | Luxury Apartments in Thane",
+    title: "Gera Joy on Tree Tops | Luxury Apartments in Pune",
     description:
       "Experience luxury living at Runwal 25 Hour Life, Thane. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
