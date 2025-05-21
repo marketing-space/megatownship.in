@@ -10,7 +10,7 @@ export default function MobileActionBar() {
   const { onOpen } = useModal();
   const { site } = useSite();
   const { contact, name } = getSiteConfig(site);
-
+  
   return (
     <div className="fixed bottom-4 left-4 right-4 max-w-md mx-auto lg:hidden z-50">
       <div className="grid grid-cols-3">
@@ -45,7 +45,7 @@ export default function MobileActionBar() {
           className="flex gap-2 items-center justify-center h-14 rounded-none bg-primary text-white hover:bg-gray-50 rounded-r-full"
           onClick={() =>
             window.open(
-              `https://api.whatsapp.com/send?phone=${contact.whatsapp}&text=I am Interested in ${name} at ${contact.address}. Please Send me details.`
+              `https://api.whatsapp.com/send?phone=${contact.whatsapp}&text=I am Interested in ${name} at ${contact.address.split(",")[0]}. Please Send me details.`
             )
           }
         >

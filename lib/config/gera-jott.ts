@@ -21,7 +21,7 @@ export const geraConfig = {
     phone: "+919619095795",
     whatsapp: "+919619095795",
     email: "sales@narangprivado.com",
-    address: "Hinjawadi, Pune, Maharashtra 411045",
+    address: "Hinjewadi, Pune, Maharashtra 411045",
   },
   gtmId: "GTM-5D83CCF4",
   navbar: {
@@ -104,7 +104,7 @@ export const geraConfig = {
     },
     offer: {
       title: "Booking Open",
-      location: "At Hinjawadi, Pune",
+      location: "At Hinjewadi, Pune",
       points: [
         { text: "Pay only 1% Every Month No Price Hike" },
         { text: "No Pre-EMI Until June 2026" },
@@ -390,7 +390,7 @@ export const geraConfig = {
   map: {
     title: "Location",
     description: "Strategically located for your convenience",
-    googleMapIframe: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60510.99334871803!2d73.684691!3d18.576875!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bbdbb12c8f37:0xa42a762628a5ffec!2sGera\'s Joy on the Treetops, Hinjawadi Phase III!5e0!3m2!1sen!2sus!4v1747386024005!5m2!1sen!2sus",
+    googleMapIframe: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d60510.99334871803!2d73.684691!3d18.576875!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bbdbb12c8f37:0xa42a762628a5ffec!2sGera\'s Joy on the Treetops, Hinjewadi Phase III!5e0!3m2!1sen!2sus!4v1747386024005!5m2!1sen!2sus",
 
     image: {
       src: "/gerajott/images/map.webp",
@@ -536,7 +536,7 @@ export const geraConfig = {
       {
         title: "Site Address",
         description:
-          "Gera JOTT: Phase 3 Hinjawadi, Pune",
+          "Gera JOTT: Phase 3 Hinjewadi, Pune",
       },
     ],
     disclaimer:

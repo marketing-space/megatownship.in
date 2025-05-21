@@ -21,7 +21,7 @@ export const geraKharadiConfig = {
         phone: "+919619095795",
         whatsapp: "+919619095795",
         email: "sales@narangprivado.com",
-        address: "Hinjawadi, Pune, Maharashtra 411045",
+        address: "East Kharadi, Pune, Maharashtra 411043",
     },
     gtmId: "GTM-N882HKNK",
     navbar: {
