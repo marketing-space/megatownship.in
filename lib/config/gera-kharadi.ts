@@ -463,7 +463,7 @@ export const geraKharadiConfig = {
         title: "Get The Best Quote",
         bookFreeVisit: {
             image: {
-                src: "/gerakheradi/images/ride.png",
+                src: "/gerakharadi/images/ride.png",
                 alt: "Book a Site Visit",
             },
             cta: {
@@ -538,7 +538,7 @@ export const geraKharadiConfig = {
     seo: {
         title: "Gera Island Of Joy | Luxury Apartments in Pune",
         description:
-            "Experience luxury living at Gera Island Of Joy, Thane. 2 & 3 BHK apartments with world-class amenities.",
+            "Experience luxury living at Gera Island Of Joy, Pune. 2 & 3 BHK apartments with world-class amenities.",
         keywords: [
             "luxury apartments",
             "Pune",
