@@ -21,7 +21,7 @@ body {
   --card-foreground: 210 5% 15%;
   --popover: 210 100% 95%;
   --popover-foreground: 210 100% 10%;
-  --primary: 211 100% 50%;
+  --primary: 214 51% 21%;
   --primary-foreground: 0 0% 100%;
   --secondary: 210 30% 70%;
   --secondary-foreground: 0 0% 0%;
@@ -31,7 +31,7 @@ body {
   --accent-foreground: 210 5% 15%;
   --destructive: 0 100% 30%;
   --destructive-foreground: 210 5% 90%;
-  --border: 210 30% 50%;
+  --border: 214 51% 21%;
   --input: 210 82% 36%;
   --ring: 210 91.5% 23.1%;
   --radius: 0.5rem;

@@ -23,7 +23,7 @@ export const geraConfig = {
     email: "sales@narangprivado.com",
     address: "Hinjawadi, Pune, Maharashtra 411045",
   },
-  gtmId: "GTM-5X888888",
+  gtmId: "GTM-5D83CCF4",
   navbar: {
     navItems: [
       {
@@ -314,28 +314,28 @@ export const geraConfig = {
         description: "",
       },
       {
-        title: "Library",
-        image: "/gerajott/images/amenities/library.png",
+        title: "Kids Pool",
+        image: "/gerajott/images/amenities/Kids-Pool_.jpg",
         description: "",
       },
       {
-        title: "Floral Garden",
-        image: "/gerajott/images/amenities/floralgardens_01.webp",
+        title: "Senior Citizen Area",
+        image: "/gerajott/images/amenities/Senior-Citizens-Area_.jpg",
         description: "",
       },
       {
-        title: "Gym",
-        image: "/gerajott/images/amenities/gym_01.webp",
+        title: "Go-Karting Track",
+        image: "/gerajott/images/amenities/Go-Track_.jpg",
         description: "",
       },
       {
-        title: "Jogging Track",
-        image: "/gerajott/images/amenities/joggingpath_1.webp",
+        title: "Bowling Alley",
+        image: "/gerajott/images/amenities/Bowling.jpg",
         description: "",
       },
       {
-        title: "Party Lawn",
-        image: "/gerajott/images/amenities/partylawn_1.webp",
+        title: "Mini Theatre",
+        image: "/gerajott/images/amenities/Mini-Theatre.jpg",
         description: "",
       },
     ],

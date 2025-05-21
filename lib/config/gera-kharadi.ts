@@ -23,7 +23,7 @@ export const geraKharadiConfig = {
         email: "sales@narangprivado.com",
         address: "Hinjawadi, Pune, Maharashtra 411045",
     },
-    gtmId: "GTM-5X888888",
+    gtmId: "GTM-N882HKNK",
     navbar: {
         navItems: [
             {
@@ -97,7 +97,7 @@ export const geraKharadiConfig = {
                     "Download the brochure to learn more about Gera Island Of Joy.",
             },
             title: "Welcome to Gera Island Of Joy",
-            description: `Gera Developments proudly unveils Island of Joy at East Kharadi^ — a landmark addition to our signature ChildCentric® Homes portfolio.
+            description: `Gera Developments proudly unveils Island of Joy at East Kharadi — a landmark addition to our signature ChildCentric® Homes portfolio.
             Spread across 12.5 acres, this exceptional development boasts over 4 acres of landscaped open spaces and three exclusive clubhouses covering more than 40,000 square feet.
 
             Step into a world of extraordinary recreation, featuring the first-ever private Go-Kart track in a residential community, an elevated wave pool, and a cutting-edge bowling alley. With 9 towers rising 30 to 32 stories high, Island of Joy is our most prestigious ChildCentric® Homes project yet.
@@ -271,68 +271,68 @@ export const geraKharadiConfig = {
         },
         amenities: [
             {
-                title: "Adventure Area",
-                image: "/gerakharadi/images/amenities/adventurearea_01.jpg",
+                title: "Open Lawn",
+                image: "/gerakharadi/images/amenities/floralgardens_01.webp",
                 description: "",
             },
             {
-                title: "Badminton Court",
+                title: "Tennis Court",
                 image: "/gerakharadi/images/amenities/BadmintonCourt.webp",
                 description: "",
             },
             {
-                title: "Banquet Hall",
-                image: "/gerakharadi/images/amenities/BanquetHall.webp",
+                title: "Car Fast Charging Station",
+                image: "/gerakharadi/images/amenities/Car-Fast-Charging_.jpg",
                 description: "",
             },
             {
-                title: "Box Cricket",
-                image: "/gerakharadi/images/amenities/boxcricket_1.webp",
+                title: "Cricket Practice Net",
+                image: "/gerakharadi/images/amenities/Cricket-Net.jpg",
                 description: "",
             },
             {
-                title: "Boxing Ring",
-                image: "/gerakharadi/images/amenities/BoxingZone.webp",
+                title: "Pet Park With Pet Care Area",
+                image: "/gerakharadi/images/amenities/Pet-Park_.jpg",
                 description: "",
             },
             {
-                title: "Jogging Track",
-                image: "/gerakharadi/images/amenities/JoggingTrack.webp",
+                title: "Rubberised Jogging Track",
+                image: "/gerakharadi/images/amenities/Rubberised-Track_.jpg",
                 description: "",
             },
             {
-                title: "Open turf",
-                image: "/gerakharadi/images/amenities/opentruf_01.webp",
+                title: "Senior Citizen Area",
+                image: "/gerakharadi/images/amenities/Senior-Citizens-area_.jpg",
                 description: "",
             },
             {
-                title: "Party Lawn",
-                image: "/gerakharadi/images/amenities/partylawn_1.webp",
+                title: "Skating Rink",
+                image: "/gerakharadi/images/amenities/Skating-Rink.jpg",
                 description: "",
             },
             {
-                title: "Resting Plaza",
-                image: "/gerakharadi/images/amenities/restingplaza_1.webp",
+                title: "Kids Play Area",
+                image: "/gerakharadi/images/amenities/kidplay_01.webp",
                 description: "",
             },
             {
-                title: "Swimming Pool",
-                image: "/gerakharadi/images/amenities/swimmingpool_1.webp",
+                title: "Kids Pool",
+                image: "/gerakharadi/images/amenities/kidspool_1.webp",
                 description: "",
             },
             {
-                title: "Trampoline Park",
-                image: "/gerakharadi/images/amenities/trampolinepark_01.webp",
+                title: "Chilren's Cycling Track",
+                image: "/gerakharadi/images/amenities/Children-Cycling_.jpg",
                 description: "",
             },
             {
-                title: "Yoga Deck",
-                image: "/gerakharadi/images/amenities/yoga_01.webp",
+                title: "Race Track And Go Karts",
+                image: "/gerakharadi/images/amenities/Go-Track_.jpg",
                 description: "",
             },
         ],
         stats: {
-            title: "32+ World-Class Amenities",
+            title: "40+ World-Class Amenities",
             description: "Everything you need for a luxurious lifestyle",
         },
     },
@@ -629,12 +629,12 @@ export const geraKharadiConfig = {
 
     formSubmission: {
         crm: {
-            formId: "vtigerWebForm_128",
-            publicId: "f4e0ba0b701280f39a39661355597ecb",
+            formId: "vtigerWebForm_129",
+            publicId: "3f9f710860637c0e9d8c635a0932d645",
             baseUrl: "https://company133638.od2.vtiger.com",
             __vtrftk: "sid:d0b203e8fb8ff53c5b3673fb24119e03ae930517,1680088576",
             __vtCurrency: "1",
-            name: "Gera Hinjewadi",
+            name: "Gera Kharadi",
             cfLeadsProjectSite: "Swaminarayan City",
             leadSource: "Web",
             emailOptin: "1",

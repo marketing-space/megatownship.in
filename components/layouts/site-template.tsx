@@ -21,12 +21,12 @@ export default function SiteTemplate({
       <ModalProvider />
       <Navbar />
       <main className="flex flex-col w-full min-h-[calc(100vh-var(--navbar-height))] mt-[var(--navbar-height)] pb-[56px] lg:pb-0">
-        <div className="flex-1 flex flex-col justify-between lg:w-3/4">
+        <div className="flex-1 flex flex-col justify-between lg:w-[77%]">
           {children}
           <Footer />
         </div>
         <div className="lg:w-1/4 lg:flex-shrink-0 hidden lg:block">
-          <div className="lg:fixed lg:right-0 lg:top-[var(--navbar-height)] lg:h-[calc(100vh-var(--navbar-height))] lg:w-1/4">
+          <div className="lg:fixed lg:right-0 lg:top-[var(--navbar-height)] lg:h-[calc(100vh-var(--navbar-height))] lg:w-[23%]">
             <EnquireSection />
           </div>
         </div>
