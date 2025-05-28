@@ -320,7 +320,7 @@ export const geraConfig = {
       },
       {
         title: "Senior Citizen Area",
-        image: "/gerajott/images/amenities/Senior-Citizens-Area_.jpg",
+        image: "/gerajott/images/amenities/Senior-Citizens-area_.jpg",
         description: "",
       },
       {
